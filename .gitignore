@@ -1,0 +1,9 @@
+# build output
+build/
+build-*/
+out/
+.vs/
+
+# local files, not part of the project
+*.rar
+ВЫПОЛНЕНО.txt
